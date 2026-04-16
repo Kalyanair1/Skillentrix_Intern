@@ -60,9 +60,5 @@ npm run dev
 npm run build
 ```
 
-## Submission Notes
 
-- Repository name required: `Skillentrix_Intern`
-- Upload a screenshot or video of the work/code on LinkedIn
-- Tag `Skillentrix Technologies` in the post
 
