@@ -66,6 +66,3 @@ npm run build
 - Upload a screenshot or video of the work/code on LinkedIn
 - Tag `Skillentrix Technologies` in the post
 
-## Author
-
-Kalyan Gogoi
