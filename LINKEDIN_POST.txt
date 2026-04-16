@@ -1,0 +1,11 @@
+Completed my assigned frontend internship task at Skillentrix Technologies.
+
+Built a React Contact Cards Manager SPA with:
+- reusable React components
+- responsive UI
+- live search and filtering
+- localStorage persistence
+
+Repository: Skillentrix_Intern
+
+Thank you Skillentrix Technologies for the learning opportunity.
