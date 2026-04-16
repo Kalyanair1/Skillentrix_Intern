@@ -1,16 +1,19 @@
 # Skillentrix_Intern
 
-React Contact Cards Manager created for the Skillentrix internship task.
-
+I built this project during my Skillentrix internship to practice React and improve my frontend skills.
 ## Project Overview
 
-This is a frontend-only single-page application built with React, JavaScript, CSS, and Vite. The app allows users to:
+This is a simple React application where users can add, view, and search contact cards.
+## What I learned
 
-- add digital contact cards using a form
-- display all contacts in a responsive grid
-- filter contacts in real time by name or company
-- keep contacts saved after refresh using `localStorage`
+- Managing state in React  
+- Handling form inputs  
+- Working with localStorage  
+- Structuring components properly  
 
+One challenge I faced was managing state updates while filtering contacts in real-time. This helped me understand React state more clearly.
+## Live Demo
+https://skillentrix-intern.vercel.app
 ## Folder Structure
 
 ```text
